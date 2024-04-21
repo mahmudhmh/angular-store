@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": 1,
-      "image": "assets/images/products/image1.jpg",
-      "name": "Black Hoodie",
-      "price": "24",
-      "rating": 5
-    },
-    {
       "id": 2,
       "name": "Branded Shoes",
       "image": "assets/images/products/image2.jpg",
@@ -19,13 +12,6 @@
       "image": "assets/images/products/image3.jpg",
       "name": "White",
       "price": "85.0",
-      "rating": 3
-    },
-    {
-      "id": 4,
-      "image": "assets/images/products/image4.jpg",
-      "name": "Gray Dress",
-      "price": "625",
       "rating": 3
     },
     {
@@ -104,6 +90,20 @@
       "image": "assets/images/products/image16.jpg",
       "price": "12.5",
       "rating": 3
+    },
+    {
+      "id": 17,
+      "image": "assets/images/products/image1.jpg",
+      "name": "T-shirt",
+      "price": "10",
+      "rating": 4
+    },
+    {
+      "id": 18,
+      "image": "assets/images/products/image4.jpg",
+      "name": "New Item",
+      "price": "25",
+      "rating": 4
     }
   ]
 }
