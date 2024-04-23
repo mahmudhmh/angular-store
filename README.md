@@ -20,6 +20,13 @@ This project is aimed at developing a robust and efficient e-commerce platform w
 - **Product Listings**: Displaying a catalog of available products.
 - **Admin Dashboard**: Managing products, orders, and user accounts.
 
+![AngularStore](https://github.com/mahmudhmh/angular-store/assets/54104161/5b142f3b-9fe6-46b4-86a6-264452fb509f)
+![AngularStore · 5 07am · 04-23](https://github.com/mahmudhmh/angular-store/assets/54104161/4b9e9099-5e05-43cc-b2f1-d9f671a56c1e)
+![AngularStore · 5 07am · 04-23 (1)](https://github.com/mahmudhmh/angular-store/assets/54104161/25b80ee5-ca63-40e5-9b9c-d55910bd8bcf)
+![AngularStore · 5 07am · 04-23 (2)](https://github.com/mahmudhmh/angular-store/assets/54104161/508a2910-8c2c-482a-bf87-6ae9c67bf51b)
+![AngularStore · 5 07am · 04-23 (3)](https://github.com/mahmudhmh/angular-store/assets/54104161/1e436016-50ea-4b33-918e-c469570f2035)
+![AngularStore · 5 08am · 04-23](https://github.com/mahmudhmh/angular-store/assets/54104161/fa6d61c2-9b02-415c-a197-056c0de0e57a)
+
 ## Getting Started
 
 To run this project locally, follow these steps:
