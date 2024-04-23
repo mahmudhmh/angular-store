@@ -85,13 +85,6 @@
       "rating": 5
     },
     {
-      "id": 16,
-      "name": "Yellow Raincoat",
-      "image": "assets/images/products/image16.jpg",
-      "price": "12.5",
-      "rating": 3
-    },
-    {
       "id": 17,
       "image": "assets/images/products/image1.jpg",
       "name": "T-shirt",

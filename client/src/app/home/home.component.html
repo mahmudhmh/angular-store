@@ -1,13 +1,4 @@
 <div class="column gap-1">
-  <!--Add Btn-->
-  <button
-    type="button"
-    pButton
-    icon="pi pi-plus"
-    (click)="toggleAddPopup()"
-    label="Add Product"
-    class="add-product-btn"
-  ></button>
   <!--Products-->
   <div class="row wrap gap-1 space-between">
     <app-product
@@ -25,7 +16,16 @@
     (onPageChange)="onPageChange($event)"
     #paginator
   ></p-paginator>
+  <!--Add Btn-->
 </div>
+<button
+  type="button"
+  pButton
+  icon="pi pi-plus"
+  (click)="toggleAddPopup()"
+  label="Add Product"
+  class="add-product-btn"
+></button>
 
 <!--Edit Product-->
 <app-edit-popup
